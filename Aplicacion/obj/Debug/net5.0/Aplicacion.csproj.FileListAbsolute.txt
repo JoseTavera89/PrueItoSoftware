@@ -1,0 +1,15 @@
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\Entidades.dll
+D:\jose\Proyectos\Empresas\Aplicacion\bin\Debug\net5.0\Entidades.pdb
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\jose\Proyectos\Empresas\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
